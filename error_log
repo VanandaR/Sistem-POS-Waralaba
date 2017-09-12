@@ -1,0 +1,9 @@
+[10-Dec-2016 06:57:07 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/u9700765/public_html/project/clinicsystem/system/controls/Login.php on line 16
+[10-Dec-2016 06:57:40 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/u9700765/public_html/project/clinicsystem/system/controls/Login.php on line 16
+[10-Dec-2016 07:02:31 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/u9700765/public_html/project/clinicsystem/system/controls/Login.php on line 16
+[10-Dec-2016 07:03:03 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/u9700765/public_html/project/clinicsystem/system/controls/Login.php on line 16
+[10-Dec-2016 10:24:29 UTC] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/u9700765/public_html/project/clinicsystem/system/controls/Visits.php on line 65
+[10-Dec-2016 10:24:35 UTC] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/u9700765/public_html/project/clinicsystem/system/controls/Visits.php on line 65
+[10-Dec-2016 10:24:46 UTC] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/u9700765/public_html/project/clinicsystem/system/controls/Visits.php on line 65
+[10-Dec-2016 10:26:48 UTC] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/u9700765/public_html/project/clinicsystem/system/controls/Visits.php on line 65
+[10-Dec-2016 10:27:48 UTC] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/u9700765/public_html/project/clinicsystem/system/controls/Visits.php on line 65
